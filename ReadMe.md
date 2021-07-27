@@ -1,6 +1,13 @@
 # dockME LiTe - Simplified tool for Robust Researchers
+[![DOI](https://zenodo.org/badge/390092382.svg)](https://zenodo.org/badge/latestdoi/390092382)
 
 dockME Lite is a Python-based biotech software for dealing with multiple autodock macromolecules and ligands files to be used at Autodock systems.
+
+
+### CITE THIS SOFTWARE
+
+COSTA, R.B.G.M., & Xavier-Júnior, F.H. (2020, May 25). remullo/dockMe-LiTe-alpha: dockME-Lite: A Promising Tool for Computational Molecular Docking application (Version v1.0.5-alpha). Presented at the RENORBIO 2021, Brazil: Zenodo. http://doi.org/10.5281/zenodo.5140346
+
 
 ## Installation
 
