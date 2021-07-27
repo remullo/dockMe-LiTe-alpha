@@ -1,0 +1,12 @@
+receptor = macromolecules\protnum.pdbqt
+ligand = ligands\ligandnum.pdbqt
+out = results\vina_protnum_ligandnum.pdbqt
+center_x = cx
+center_y = cy
+center_z = cz
+size_x = sx
+size_y = sy
+size_z = sz
+energy_range = egr
+num_modes = nm
+exhaustiveness = exh
