@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## dockME LITE: A tool for robust researchers
 
 You can use the [editor on GitHub](https://github.com/remullo/dockMe-LiTe-alpha/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
