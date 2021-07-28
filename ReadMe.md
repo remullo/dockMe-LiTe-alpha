@@ -6,7 +6,7 @@ dockME Lite is a Python-based biotech software for dealing with multiple autodoc
 
 ### CITE THIS SOFTWARE
 
-COSTA, R.B.G.M., & Xavier-Júnior, F.H. (2020, May 25). dockME LITE: An Open-Source Automated Solution for Molecular Docking Scientists (Version v1.0.5-alpha). Zenodo. http://doi.org/10.5281/zenodo.5140346
+COSTA, R.B.G.M., & Xavier-Júnior, F.H. (2020, May 25). dockME LITE: An  Automated Open-Source Solution for Molecular Docking Scientists (Version v1.0.5-alpha). Zenodo. http://doi.org/10.5281/zenodo.5140346
 
 
 ## Installation
